@@ -118,7 +118,7 @@ void main() {
         xprintf("\n");
         //xprintf("%4d %4d %4d %4d %4d %4d\n", r, g, b, r-a, g-a, b-a);
         //xprintf("%d %4d %4d %4d\n", tmp, ra, ga, ba);
-        delay_ms(100);
+        delay_ms(1000);
 
         // switch(curMode){
         //     case 0:
