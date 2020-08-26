@@ -1,0 +1,17 @@
+#exclude every file with no extension
+*
+!/**/
+!*.*
+
+build
+*.bin
+
+#exclude . dirs and files
+.*
+
+*.o
+
+test.cpp
+
+#files we do not want to ignore
+!.gitignore
